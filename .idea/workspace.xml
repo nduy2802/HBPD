@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a2b8a48-f7a6-497d-8b0c-e00f10f0d29d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HPBD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HPBD/images/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/HPBD/images/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HPBD/images/IMG_2466.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HPBD/images/IMG_2466.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HPBD/images/anhbeiu.png" beforeDir="false" afterPath="$PROJECT_DIR$/HPBD/images/anhbeiu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HPBD/images/balloon1.png" beforeDir="false" afterPath="$PROJECT_DIR$/HPBD/images/balloon1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HPBD/images/balloon2.png" beforeDir="false" afterPath="$PROJECT_DIR$/HPBD/images/balloon2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HPBD/images/decorate.png" beforeDir="false" afterPath="$PROJECT_DIR$/HPBD/images/decorate.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HPBD/images/decorate_flower.png" beforeDir="false" afterPath="$PROJECT_DIR$/HPBD/images/decorate_flower.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HPBD/images/hat.png" beforeDir="false" afterPath="$PROJECT_DIR$/HPBD/images/hat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HPBD/images/heart.png" beforeDir="false" afterPath="$PROJECT_DIR$/HPBD/images/heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HPBD/images/heart_letter.png" beforeDir="false" afterPath="$PROJECT_DIR$/HPBD/images/heart_letter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HPBD/images/love.png" beforeDir="false" afterPath="$PROJECT_DIR$/HPBD/images/love.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HPBD/images/mewmew.gif" beforeDir="false" afterPath="$PROJECT_DIR$/HPBD/images/mewmew.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HPBD/images/smiley_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/HPBD/images/smiley_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HPBD/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/HPBD/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HPBD/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HPBD/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="30fZcfqqr96nUEqkPGDCHvkNFr8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "disable.download.node.interpreter.editor.notification": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/NC/WebstormProjects/HPBD",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\NC\WebstormProjects\HPBD" />
+      <recent name="C:\Users\NC\WebstormProjects\HPBD\.idea\HPBD\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\NC\WebstormProjects\HPBD\.idea\HPBD" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a2b8a48-f7a6-497d-8b0c-e00f10f0d29d" name="Changes" comment="" />
+      <created>1754020668954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754020668954</updated>
+      <workItem from="1754020669937" duration="4056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
